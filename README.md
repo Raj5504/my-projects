@@ -51,4 +51,4 @@ This project served as a learning experience for me to build responsive web page
 
 ## Contact
 
-Feel free to reach out to me via p.rajpatel5504@gmail.com for any questions or project inquiries.
+Feel free to reach out to me via p.rajpatel552004@gmail.com for any questions or project inquiries.
