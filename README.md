@@ -6,12 +6,6 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
 ### Learning Projects
 
-* **CRUD Project with PHP Overview**
-
-  This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using PHP and MySQL with server-side processing. It serves as a foundational learning tool for web development beginners.
-
-  **Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery
-
 ### University Evolution Projects
 
 * **TMS Vault (1_Main_project) Overview**
@@ -29,11 +23,6 @@ Hi! I'm Raj, a web developer with a passion for building secure and user-friendl
 
   **Technologies:** HTML, CSS, JavaScript, Bootstrap
 
-* **Digireach Project**
-
-  This project served as a learning experience for me to build responsive web pages. I focused on implementing techniques to ensure my webpage adapts seamlessly across different screen sizes, including desktops, tablets, and mobile devices.
-
-  **Technologies:** HTML, CSS, JavaScript, jQuery(Bootstrap, Bootstrap-Icons, Media Queries, splidejs, etc.)
 
  
 ## Skills
